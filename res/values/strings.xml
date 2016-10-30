@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Tower of Hanoi</string>
+    <string name="howToPlay">
+        <b>Instructions: </b> The objective of the game is to move all the disks over to the Tower 3\n\n
+        <b>Rules: </b> No disk may be placed on top of a smaller disk.
+   	</string>
+
+</resources>
